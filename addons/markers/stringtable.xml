@@ -36,7 +36,7 @@
         <Key ID="STR_ACE_Markers_MoveRestriction">
             <English>Allow moving markers for</English>
             <German>Erlaube Marker zu bewegen für</German>
-            <Japanese>次ユーザーにマーカー移動を許可</Japanese>
+            <Japanese>マーカー移動権限</Japanese>
             <Korean>마커 이동 허가</Korean>
             <Chinese>誰可以移動標誌</Chinese>
             <Chinesesimp>谁可以移动标志</Chinesesimp>

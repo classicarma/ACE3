@@ -168,6 +168,7 @@
         <Key ID="STR_ACE_Medical_FractureChance_DisplayName">
             <English>Fracture Chance</English>
             <French>Chance de fracture</French>
+            <Japanese>骨折確率</Japanese>
         </Key>
         <Key ID="STR_ACE_Medical_FractureChance_Description">
             <English>The probability of a fracture causing wound resulting in a fracture.</English>

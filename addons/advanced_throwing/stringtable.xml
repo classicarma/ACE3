@@ -190,7 +190,7 @@
         <Key ID="STR_ACE_Advanced_Throwing_dropModeHold">
             <English>Throwable Drop Mode (Hold)</English>
             <Russian>Режим броска гранаты (удерживать)</Russian>
-            <Japanese>投てきモード (押している間)</Japanese>
+            <Japanese>投てきモード (長押し)</Japanese>
             <Polish>Tryb upuszczania ob. miotanego (przytrzymaj)</Polish>
             <German>Wurfobjekt Fallmodus (halten)</German>
             <Korean>투척물 떨어뜨리기 모드(꾹눌러서)</Korean>

@@ -100,6 +100,7 @@
         <Key ID="STR_ACE_Medical_Treatment_AdvancedBandages_EnabledCanReopen">
             <English>Enabled &amp; Can Reopen</English>
             <French>Activé &amp; peuvent se rouvrir</French>
+            <Japanese>有効化/最開放</Japanese>
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_ClearTraumaAfterBandage_DisplayName">
             <English>Clear Trauma After Bandage</English>
@@ -2884,7 +2885,7 @@
             <Italian>Hai diagnosticato %1</Italian>
             <Portuguese>Você verificou o paciente %1</Portuguese>
             <Czech>Zkontroloval jsi %1</Czech>
-            <Japanese>自分の血圧は %1</Japanese>
+            <Japanese>相手の血圧は %1</Japanese>
             <Korean>나의 혈압은 %1 이다</Korean>
             <Chinesesimp>你已经检查 %1</Chinesesimp>
             <Chinese>你已經檢查 %1</Chinese>
@@ -2900,7 +2901,7 @@
             <German>Der Blutdruck liegt bei %2/%3</German>
             <Portuguese>A Pressão Arterial é de %2/%3</Portuguese>
             <Czech>Naměřil si krevní tlak u %2/%3</Czech>
-            <Japanese>血圧は %2/%3</Japanese>
+            <Japanese>相手の血圧は %2/%3</Japanese>
             <Korean>혈압이 %2/%3 이다</Korean>
             <Chinesesimp>血压为%2/%3</Chinesesimp>
             <Chinese>血壓為%2/%3</Chinese>
@@ -2916,7 +2917,7 @@
             <Italian>La pressione sanguigna è bassa</Italian>
             <Portuguese>Pressão Arterial baixa</Portuguese>
             <Czech>Naměřil si nízký krevní tlak</Czech>
-            <Japanese>血圧はかなり低い</Japanese>
+            <Japanese>相手の血圧はかなり低い</Japanese>
             <Korean>혈압이 매우 낮다</Korean>
             <Chinesesimp>发现到低血压</Chinesesimp>
             <Chinese>發現到低血壓</Chinese>
@@ -2932,7 +2933,7 @@
             <Italian>La pressione sanguigna è normale</Italian>
             <Portuguese>Pressão Arterial normal</Portuguese>
             <Czech>Naměřil si normální krevní tlak</Czech>
-            <Japanese>血圧は通常</Japanese>
+            <Japanese>相手の血圧は通常</Japanese>
             <Korean>혈압이 정상이다</Korean>
             <Chinesesimp>发现到正常血压</Chinesesimp>
             <Chinese>發現到正常血壓</Chinese>
@@ -2948,7 +2949,7 @@
             <Italian>La pressione sanguigna è alta</Italian>
             <Portuguese>Pressão Arterial Alta</Portuguese>
             <Czech>Naměřil si vysoký krevní tlak</Czech>
-            <Japanese>血圧はかなり高い</Japanese>
+            <Japanese>相手の血圧はかなり高い</Japanese>
             <Korean>혈압이 매우 높다</Korean>
             <Chinesesimp>发现到高血压</Chinesesimp>
             <Chinese>發現到高血壓</Chinese>
@@ -2964,7 +2965,7 @@
             <Italian>La pressione sanguigna è assente</Italian>
             <Portuguese>Sem Pressão Arterial</Portuguese>
             <Czech>Nenaměřil si žádný krevní tlak</Czech>
-            <Japanese>血圧は測れなかった</Japanese>
+            <Japanese>相手の血圧は測れなかった</Japanese>
             <Korean>혈압이 잡히지 않는다</Korean>
             <Chinesesimp>量不到血压</Chinesesimp>
             <Chinese>量不到血壓</Chinese>
@@ -2980,7 +2981,7 @@
             <Italian>Manca strumento per misurare pressione sanguigna</Italian>
             <Portuguese>Você falhou em aferir a Pressão Arterial</Portuguese>
             <Czech>Nedokázal si změřit krevní tlak</Czech>
-            <Japanese>血圧を測るのに失敗</Japanese>
+            <Japanese>相手の血圧を測るのに失敗</Japanese>
             <Korean>혈압을 잡을 수 없었다</Korean>
             <Chinesesimp>检查血压的动作失败</Chinesesimp>
             <Chinese>檢查血壓的動作失敗</Chinese>
@@ -3204,7 +3205,7 @@
             <Italian>Hai riscontrato un debole battito cardiaco</Italian>
             <Portuguese>Freqüência Cardíaca baixa</Portuguese>
             <Czech>Nahmatal jsi slabý srdeční puls</Czech>
-            <Japanese>自分の心拍数は低い</Japanese>
+            <Japanese>相手の心拍数は低い</Japanese>
             <Korean>약한 맥박이다</Korean>
             <Chinesesimp>心跳微弱</Chinesesimp>
             <Chinese>心跳微弱</Chinese>
@@ -3220,7 +3221,7 @@
             <Italian>Hai riscontrato un forte battito cardiaco</Italian>
             <Portuguese>Freqüência Cardíaca normal</Portuguese>
             <Czech>Nahmatal jsi silný srdeční puls</Czech>
-            <Japanese>自分の心拍数は強い</Japanese>
+            <Japanese>相手の心拍数は強い</Japanese>
             <Korean>강한 맥박이다</Korean>
             <Chinesesimp>心跳过快</Chinesesimp>
             <Chinese>心跳過快</Chinese>
@@ -3236,7 +3237,7 @@
             <Italian>Hai riscontrato un normale battito cardiaco</Italian>
             <Portuguese>Freqüência Cardíaca alta</Portuguese>
             <Czech>Nahmatal jsi normální srdeční puls</Czech>
-            <Japanese>自分の心拍数は通常</Japanese>
+            <Japanese>相手の心拍数は通常</Japanese>
             <Korean>보통 맥박이다</Korean>
             <Chinesesimp>心跳正常</Chinesesimp>
             <Chinese>心跳正常</Chinese>
@@ -3252,7 +3253,7 @@
             <Italian>Hai riscontrato una assenza di battito cardiaco</Italian>
             <Portuguese>Sem Freqüência Cardíaca</Portuguese>
             <Czech>Žádný puls</Czech>
-            <Japanese>心拍数を測れなかった</Japanese>
+            <Japanese>相手の心拍数を測れなかった</Japanese>
             <Korean>맥박을 찾을 수가 없다</Korean>
             <Chinesesimp>量不到心跳</Chinesesimp>
             <Chinese>量不到心跳</Chinese>
